@@ -1,0 +1,9 @@
+(作成中)
+タグジャンプの足跡をグラフに表示させる。
+
+使い方
+=====
+.vimrcに以下を追加
+```vim
+au BufEnter * execute ':silent !foo'
+```
